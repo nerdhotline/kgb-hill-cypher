@@ -1,4 +1,3 @@
-import numpy as np 
 from utils import cleanText, tokenize
 from MTX import transform
 
